@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/iggyboy/node-handlebars/issues"
   },
-  "homepage": "https://github.com/iggyboy/node-handlebars#readme"
+  "homepage": "https://github.com/iggyboy/node-handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^3.0.0",
+    "mysql": "^2.16.0"
+  }
 }
